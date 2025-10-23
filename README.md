@@ -2,6 +2,7 @@
 
 Seprinder dùng **Cura Engine** để slice và gửi G-code trực tiếp tại.  
 Bạn có thể sử dụng cài đặt từ **Ultimaker Cura** với Seprinder theo các bước dưới đây.
+Xem video hướng dẫn [tại đây](https://youtu.be/IY6nqAsWw7g)
 
 ---
 
