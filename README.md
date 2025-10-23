@@ -50,7 +50,7 @@ Mở **Ultimaker Cura** trên máy tính.
 
 ## bước 3: Tải về
 
-sau khi băm bạn được chuyển trang sau
+sau khi băm bạn được chuyển đến trang sau
 
 <p align="center">
   <img src="https://github.com/seprinder/Seprinder_bam_mo_hinh/blob/main/Image/hoan_thanh.png" alt="Hướng dẫn để profile" width="800">
