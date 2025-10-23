@@ -48,7 +48,7 @@ Mở **Ultimaker Cura** trên máy tính.
  6. bấm bắt đầu băm và chờ kết quả
 ---
 
-## bước 3: Tải về
+## Bước 3: Tải về
 
 sau khi băm bạn được chuyển đến trang sau
 
