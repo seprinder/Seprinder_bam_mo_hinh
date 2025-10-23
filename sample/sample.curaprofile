@@ -1,0 +1,28 @@
+PK       ! 8ª(ìž   ž      creality_ender2_newprofile[general]
+version = 4
+name = newprofile
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+setting_version = 25
+
+[values]
+
+PK       ! %}€æ   æ   &   creality_base_extruder_0_#2_newprofile[general]
+version = 4
+name = newprofile
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+intent_category = default
+position = 0
+setting_version = 25
+
+[values]
+material_print_temperature = 210
+
+PK        ! 8ª(ìž   ž              €    creality_ender2_newprofilePK        ! %}€æ   æ   &           €Ö   creality_base_extruder_0_#2_newprofilePK      œ        
