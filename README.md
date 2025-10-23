@@ -41,4 +41,19 @@ Mở **Ultimaker Cura** trên máy tính.
 
 5. gcode bắt đầu và kết thúc tùy chỉnh có thể lấy từ cura
 
+<p align="center">
+  <img src="https://github.com/seprinder/Seprinder_bam_mo_hinh/blob/main/Image/vi_du.png" alt="Hướng dẫn để profile" width="800">
+</p>
+
+ 6. bấm bắt đầu băm và chờ kết quả
 ---
+
+## bước 3: Tải về
+
+sau khi băm bạn được chuyển trang sau
+
+<p align="center">
+  <img src="https://github.com/seprinder/Seprinder_bam_mo_hinh/blob/main/Image/hoan_thanh.png" alt="Hướng dẫn để profile" width="800">
+</p>
+
+chọn **tải về** để lấy file và sử đụng
